@@ -2,12 +2,6 @@
 
 **Project README / Reference Document**
 
-**Author:** Huzaifa shariff  
-**USN:** U18IN24S0018
-
-## GitHub
-
-[https://github.com/huzaifa-shariff/Hospital-Appointment-Management-System](https://github.com/huzaifa-shariff/Hospital-Appointment-Management-System)
 
 ## Hospital Appointment Management System
 
