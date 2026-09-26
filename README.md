@@ -479,16 +479,27 @@ The SQLite database schema and fictional demonstration data are initialized auto
 
 ## Screenshots
 
-Capture screenshots from the running website and save them in a `screenshots/` folder when preparing a report or project submission. Suggested screenshots include:
+The screenshots below show the application dashboard and its main directories. Click an image to view it at full size.
 
-- Dashboard and activity summary
-- Patient and doctor directories
-- Doctor schedule management
-- Appointment booking with available time slots
-- Appointment details and status actions
-- Payment receipt
-- Prescriptions and medical records
-- Reports and CSV export
+### Dashboard
+
+![Hospital management dashboard](Screenshots/Dashboard.png)
+
+### Departments
+
+![Hospital departments](Screenshots/Departments.png)
+
+### Doctor schedules
+
+![Doctor schedules](Screenshots/Doctor%20schedules.png)
+
+### Doctors
+
+![Doctor directory](Screenshots/Doctors.png)
+
+### Patients
+
+![Patient directory](Screenshots/Patients.png)
 
 ---
 
