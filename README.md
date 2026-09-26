@@ -2,6 +2,13 @@
 
 **Project README / Reference Document**
 
+**Author:** Huzaifa shariff  
+**USN:** U18IN24S0018
+
+## GitHub
+
+[https://github.com/huzaifa-shariff/Hospital-Appointment-Management-System](https://github.com/huzaifa-shariff/Hospital-Appointment-Management-System)
+
 ## Hospital Appointment Management System
 
 A web-based Hospital Appointment Management System developed using Python, Flask, SQLite, HTML5, CSS3, Bootstrap 5, and JavaScript. The application helps hospital staff manage patients, departments, doctors, recurring schedules, appointments, payments, prescriptions, and medical records through a responsive browser-based administration website.
