@@ -557,7 +557,7 @@ Python | Flask | SQLite | HTML5 | CSS3 | Bootstrap 5 | JavaScript | Jinja2
 
 ## GitHub
 
-Add the project repository URL here.
+https://github.com/huzaifa-shariff/Hospital-Appointment-Management-System
 
 ---
 
