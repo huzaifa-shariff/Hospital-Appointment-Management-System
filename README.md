@@ -548,9 +548,9 @@ The screenshots below show the application dashboard and its main directories. C
 
 ## Author
 
-**Student Name:** Add student name
+**Student Name:** Huzaifa Shariff
 
-**USN:** Add USN
+**USN:** U18IN24S0018
 
 **Course:** BCA
 
@@ -564,7 +564,7 @@ Python | Flask | SQLite | HTML5 | CSS3 | Bootstrap 5 | JavaScript | Jinja2
 
 ## GitHub
 
-Add the project repository URL here.
+https://github.com/huzaifa-shariff/Hospital-Appointment-Management-System
 
 ---
 
